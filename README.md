@@ -19,7 +19,7 @@ body {
 
 <body>
 <center>
-  <h1>Site Hackiado BY Master</h1>
+  <h1>Site Hackiado BY Rock</h1>
   <p>&nbsp;</p>
   <p>Nunca Duvide Apenas Respeite </p>
   <p></p>
