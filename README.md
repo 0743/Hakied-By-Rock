@@ -21,13 +21,13 @@ body {
 <center>
   <h1>Site Hackiado BY Rock</h1>
   <p>&nbsp;</p>
-  <p>Nunca Duvide Apenas Respeite </p>
+  <p>Não Faço O Mal So Faço Pra Quem Feis O Mal</p>
   <p></p>
   <p>e Nois</p>
   <p>&nbsp;</p>
   <p>Admin Seu Site Foi Invadido Site Contem Falhas </p>
   <h1>Rock</h1>
-  <p>rock </p>
+  <p>Rock </p>
   <p>&nbsp;</p>
   <p><a href="http://xat.com/Bingos24hrs"><img src="http://images.alphacoders.com/229/229973.jpg" alt="http://images.alphacoders.com/229/229973.jpg" width="787" height="422" style="-webkit-user-select: none" /></a></p>
 </center>
